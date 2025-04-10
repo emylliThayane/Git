@@ -1,0 +1,1 @@
+Projeto para testar habilidades com Git. Esta branch faz modificações na descrição do projeto.
